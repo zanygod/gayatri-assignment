@@ -1,0 +1,22 @@
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.header {
+    color: hsl(233, 3%, 48%);
+}
+.img
+{
+    width: 200px;
+    height: 200px;
+}
+
+.table, th, td {
+  border: 1px solid;
+}
+
+.footer {
+  text-align: center;
+}
